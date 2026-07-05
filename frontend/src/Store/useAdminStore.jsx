@@ -1,5 +1,5 @@
 import { create } from "zustand";
-import axiosInstance from "../utils/axios.jsx";
+import axiosInstance from "../Utils/axios.jsx";
 import toast from "react-hot-toast";
 
 const LIMIT = 10 * 1024 * 1024 * 1024; // 10GB
