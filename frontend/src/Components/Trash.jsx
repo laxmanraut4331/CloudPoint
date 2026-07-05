@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useAdminStore } from "../Store/useAdminStore";
-import axiosInstance from "../utils/axios";
+import axiosInstance from "../Utils/axios";
 import toast from "react-hot-toast";
 import { Trash2, RotateCcw, FileText, Video, X, Maximize2 } from "lucide-react";
 
