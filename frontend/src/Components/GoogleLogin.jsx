@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import axiosInstance from "../utils/axios";
+import axiosInstance from "../Utils/axios";
 import { Loader } from "lucide-react";
 
 export const GoogleLogin = () => {
